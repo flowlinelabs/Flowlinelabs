@@ -1,16 +1,85 @@
-## Hi there 👋
+<h1 align="center">FlowlineLabs</h1>
 
-<!--
-**flowlinelabs/Flowlinelabs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Backend Systems • Integrations • Automation
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="mailto:flowline.labs@proton.me">Contact</a> •
+  <a href="https://github.com/flowlinelabs">GitHub</a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## About
+
+FlowlineLabs is a small engineering studio focused on building reliable backend systems, integrations, and automation tools for growing teams.
+
+We help founders and operators eliminate manual workflows and scale their infrastructure with lightweight, maintainable solutions.
+
+---
+
+## Services
+
+- API Integrations & Webhooks  
+- Workflow Automation  
+- Backend Microservices
+- Dockerized Deployments  
+- CI/CD Pipelines  
+- System Monitoring & Reliability  
+
+---
+
+## Tech Stack
+
+- **Languages:** Python 
+- **Frameworks:** Flask  
+- **Infrastructure:** Docker, Linux VPS  
+- **CI/CD:** GitHub Actions  
+- **APIs:** REST, Webhooks, OAuth  
+- **Databases:** PostgreSQL, SQLite  
+
+---
+
+## Selected Projects
+
+### 🔹 SaaS Billing Pipeline
+Automated webhook ingestion, transaction processing, and reporting service.
+
+> Python • Flask • Docker • CI/CD
+
+### 🔹 Data Sync Service
+Reliable data synchronization between external APIs and internal systems.
+
+> ETL • Scheduling • Error Handling
+
+### 🔹 System Monitor
+Lightweight uptime monitoring and alerting system.
+
+> Health Checks • Logging • Notifications
+
+---
+
+## Engagement Model
+
+We work with a limited number of clients at a time through:
+
+- Monthly retainers  
+- Fixed-scope integration projects  
+
+This ensures high-quality delivery and long-term system stability.
+
+---
+
+## Contact
+
+For project inquiries and collaborations:
+
+📧 Email: flowline.labs@proton.me
+🐙 GitHub: https://github.com/flowlinelabs
+
+---
+
+<p align="center">
+  Reliable systems. Clean integrations. Minimal overhead.
+</p>
